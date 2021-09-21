@@ -1,16 +1,19 @@
-### Hi there 👋
+### Greetings ⚡
 
-<!--
-**DenisRaineri/DenisRaineri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src=https://github.com/jglovier/gifs/blob/gh-pages/thumbs-up/thumbs-up.gif width="150">
 
-Here are some ideas to get you started:
+I am Denis, son of Almir Raineri, first of his name, owner of the Knowledge of Science and technology. 
+I am searching ways to get power enough to claim the throne of my father. 
+I am obsessed with idea of improving myself and I want a platform to grow and to find my ring to rule them all. 
+I promise to be a fair technology King.
+Denis has arrived. Enemies of the heir... beware!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+(Just kidding :flipper: ~ :banana:)
+
+- 🔭 I’m currently working at NextPage
+- 🌱 I’m currently learning HTML, CSS, JavaScript, SQL, Node, React
+- 🤔 I’m looking for help with JavaScript, Node, React
+- 📫 How to reach me: @DenisRaineri; denis.raineri@nextpage.com.br;
+- ⚡ Fun fact: Sometimes I wish I was a Transformers :car:
+
+<img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Gameplay.gif width="3000">

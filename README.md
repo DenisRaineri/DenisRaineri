@@ -1,22 +1,35 @@
-<h1>### Greetings ⚡</h1>
 
-<img src=https://github.com/jglovier/gifs/blob/gh-pages/thumbs-up/thumbs-up.gif width="150">
+  ###  Watashi wa Denisudesu!
 
-I am <b>Denis</b>, son of <em>Almir Raineri</em>, first of his name, owner of the <b><em>Knowledge of Science and technology</b></em>. 
-I am searching ways to get power enough to claim the throne of my father. 
-I am obsessed with idea of improving myself and I want a platform to grow and to find my ring to rule them all. 
-I promise to be a fair technology King.
+私はデニスです
 
-<h3>Denis has arrived. Enemies of the heir... beware!</h3>
 
-(Just kidding :flipper: ~ :banana:)
+<div align="center" style="display: flex">
+  <a href="https://github.com/uLuccas">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=DenisRaineri&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DenisRaineri&layout=compact&langs_count=7&theme=radical"/>
+</div>
 
-- 🔭 I’m currently working at NextPage
-- 🌱 I’m currently learning HTML, CSS, JavaScript, SQL, Node, React
-- 🤔 I’m looking for help with JavaScript, Node, React
-- 📫 How to reach me: @DenisRaineri; denis.raineri@nextpage.com.br;
-- ⚡ Fun fact: Sometimes I wish I was a Transformers :car:
+<div style="display: inline_block"><br>
+  
+  
+  
 
-<h3> Come along with me!  🦋  </h3>
+  <div style="display: inline_block"><br>
+<div style="display: inline_block"><br>
+  <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
+  <img align="center"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg">
+    <img align="right"  height="150" style="border-radius:10px;" src="https://i.kym-cdn.com/photos/images/original/000/990/645/a57.gif"> 
 
-<img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Gameplay.gif width="3000">
+</div>
+
+  ##
+
+<div> 
+  <a href="https://www.instagram.com/denis_raineri/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:denispraineri@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/denis-raineri-63a61b162/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>

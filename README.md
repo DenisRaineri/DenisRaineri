@@ -1,5 +1,5 @@
 
-  ###  Watashi wa Denisudesu!
+  ###  Ore wa Denisudesu!
 
 私はデニスです
 

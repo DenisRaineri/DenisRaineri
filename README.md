@@ -9,7 +9,7 @@
 >
 
   <h1>
-    Ore wa Denisudesu! 👋
+    Ore wa Denisudesu!   👋
   </h1>
 
   <div align="right">

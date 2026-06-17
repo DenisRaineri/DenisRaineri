@@ -62,12 +62,12 @@ create accessible and maintainable products.
 />
 </td>
 
-<td style="border: none;">
+<!-- <td style="border: none;">
 <img
   height="180em"
   src="https://github-readme-streak-stats.herokuapp.com/?user=DenisRaineri&theme=radical"
 />
-</td>
+</td> -->
 
 </tr>
 </table>
